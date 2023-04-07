@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question": "Siapakah Presiden Pertama Indonesia?",
+      "options": ["Soekarno", "Soeharto", "Jokowi", "Gus Dur"],
+      "answer": "Soekarno"
+    },
+    {
+      "question": "Apakah warna bendera Indonesia?",
+      "options": ["Merah Putih", "Biru Putih", "Hijau Putih", "Kuning Merah"],
+      "answer": "Merah Putih"
+    },
+    {
+      "question": "Apa nama ibukota Indonesia?",
+      "options": ["Jakarta", "Bandung", "Surabaya", "Yogyakarta"],
+      "answer": "Jakarta"
+    },
+    {
+      "question": "Apa nama sungai terpanjang di Indonesia?",
+      "options": [
+        "Sungai Kapuas",
+        "Sungai Musi",
+        "Sungai Barito",
+        "Sungai Mahakam"
+      ],
+      "answer": "Sungai Kapuas"
+    },
+    {
+      "question": "Siapa penemu bola lampu?",
+      "options": [
+        "Thomas Alva Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Galileo Galilei"
+      ],
+      "answer": "Thomas Alva Edison"
+    },
+    {
+      "question": "Berapa jumlah provinsi di Indonesia?",
+      "options": ["32", "33", "34", "35"],
+      "answer": "34"
+    },
+    {
+      "question": "Apa nama komputer pertama?",
+      "options": ["ENIAC", "UNIVAC", "EDVAC", "IBM 701"],
+      "answer": "ENIAC"
+    },
+    {
+      "question": "Siapakah pelukis terkenal di Indonesia?",
+      "options": ["Affandi", "Basuki Abdullah", "Raden Saleh", "Sudjojono"],
+      "answer": "Affandi"
+    },
+    {
+      "question": "Apa kepanjangan dari HTML?",
+      "options": [
+        "HyperText Markup Language",
+        "HyperTools Markup Language",
+        "HyperLinks Markup Language",
+        "HyperMedia Markup Language"
+      ],
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "question": "Siapa penemu telepon?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Albert Einstein"
+      ],
+      "answer": "Alexander Graham Bell"
+    }
+  ]
+}

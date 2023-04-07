@@ -1,0 +1,36 @@
+* {
+    font-family: sans-serif;
+    color: #dddddd;
+    background-color: #101010;
+}
+
+.header {
+    background-color: #6c87ff;
+    display: flex;
+    font-size: 2em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.question {
+    font-size: 2em;
+    margin: 1.5em;
+}
+
+.control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#submit-button {
+    color: #101010;
+    background-color: #dddddd;
+    border-radius: 15%;
+    font-size: 2em;
+    padding: 1em;
+}
+#submit-button:hover {
+color: #6c87ff;
+background-color: rgb(1, 5, 57);}
